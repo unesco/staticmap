@@ -1,5 +1,5 @@
 # staticmap
-Simple static map to be used with light applications loading a portion of a map in png format. 
+Simple static map to be used with light applications loading a portion of a map in png format. The original work was originally made by Gerhard Koch, and hosted here: http://sourceforge.net/projects/staticmaplite/.
 
 It supports FontAwesome icons and different colors.
 
