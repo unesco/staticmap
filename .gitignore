@@ -1,0 +1,4 @@
+.DS_Store
+cache/maps/*
+cache/markers/*
+cache/tiles/*
